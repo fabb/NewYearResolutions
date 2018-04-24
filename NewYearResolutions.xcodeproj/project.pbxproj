@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1F60F53F208F1DA400E10F1E /* Configuration.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F60F53E208F1DA400E10F1E /* Configuration.m */; };
+		1F60F541208F1E3B00E10F1E /* Problematic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F60F540208F1E3B00E10F1E /* Problematic.swift */; };
 		1FB78833208F03AF00E5CF6B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB78832208F03AF00E5CF6B /* AppDelegate.swift */; };
 		1FB78835208F03AF00E5CF6B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB78834208F03AF00E5CF6B /* ViewController.swift */; };
 		1FB78838208F03AF00E5CF6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FB78836208F03AF00E5CF6B /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 		1F60F53C208F1DA300E10F1E /* NewYearResolutions-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NewYearResolutions-Bridging-Header.h"; sourceTree = "<group>"; };
 		1F60F53D208F1DA400E10F1E /* Configuration.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Configuration.h; sourceTree = "<group>"; };
 		1F60F53E208F1DA400E10F1E /* Configuration.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Configuration.m; sourceTree = "<group>"; };
+		1F60F540208F1E3B00E10F1E /* Problematic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problematic.swift; sourceTree = "<group>"; };
 		1FB7882F208F03AF00E5CF6B /* NewYearResolutions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewYearResolutions.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FB78832208F03AF00E5CF6B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FB78834208F03AF00E5CF6B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				1F60F53D208F1DA400E10F1E /* Configuration.h */,
 				1F60F53E208F1DA400E10F1E /* Configuration.m */,
 				1F60F53C208F1DA300E10F1E /* NewYearResolutions-Bridging-Header.h */,
+				1F60F540208F1E3B00E10F1E /* Problematic.swift */,
 			);
 			path = NewYearResolutions;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			files = (
 				1FB78835208F03AF00E5CF6B /* ViewController.swift in Sources */,
 				1F60F53F208F1DA400E10F1E /* Configuration.m in Sources */,
+				1F60F541208F1E3B00E10F1E /* Problematic.swift in Sources */,
 				1FB78833208F03AF00E5CF6B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -120,7 +120,7 @@
 		2BCC4DAB0EC9E09B478FAB88AC8F7A97 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
 		2BF444F333F85A668DB05B996D72D78C /* LiveAudio.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LiveAudio.swift; path = ATInternetTracker/Sources/LiveAudio.swift; sourceTree = "<group>"; };
 		31967204067B4210A52579DDD962DDB6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		389AD239734087FFE025F3F55492BBB0 /* Pods_NewYearResolutions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NewYearResolutions.framework; path = "Pods-NewYearResolutions.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		389AD239734087FFE025F3F55492BBB0 /* Pods_NewYearResolutions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NewYearResolutions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		39DE5BA86F2FD96EB65AF7AC7FF648F1 /* Plugin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Plugin.swift; path = ATInternetTracker/Sources/Plugin.swift; sourceTree = "<group>"; };
 		3AD4806434FB89B07D81C63D17497F69 /* TVTrackingPlugin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TVTrackingPlugin.swift; path = ATInternetTracker/Sources/TVTrackingPlugin.swift; sourceTree = "<group>"; };
 		3F90F8EF77D315A2D8B66BD64AC849B3 /* InternalSearch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InternalSearch.swift; path = ATInternetTracker/Sources/InternalSearch.swift; sourceTree = "<group>"; };
@@ -156,7 +156,7 @@
 		7D31EC38E4630F4B4E46070F3D592126 /* Crash.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Crash.h; path = ATInternetTracker/Sources/Crash.h; sourceTree = "<group>"; };
 		83B0165368CD64376159996B67F544F0 /* Configuration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Configuration.swift; path = ATInternetTracker/Sources/Configuration.swift; sourceTree = "<group>"; };
 		8A52DF2DF2B46687952F71C870431814 /* Info-iOS-Extension.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = "Info-iOS-Extension.plist"; path = "ATInternetTracker/Sources/Info-iOS-Extension.plist"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		96E4361C11C78371BD1B87B515311859 /* ATInternet-Apple-SDK.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "ATInternet-Apple-SDK.modulemap"; sourceTree = "<group>"; };
 		99F54E8483BBDB4C3A1484F69ABF7648 /* TrackerExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TrackerExtension.h; path = ATInternetTracker/Sources/TrackerExtension.h; sourceTree = "<group>"; };
 		9EF4C42C5318E6C504937A65E0739B6B /* Pods-NewYearResolutions-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NewYearResolutions-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -167,7 +167,7 @@
 		AD982BBC54107971013AF89D086F9E5F /* Pods-NewYearResolutions-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NewYearResolutions-dummy.m"; sourceTree = "<group>"; };
 		AF6C4577028D1E36B309B7BDFFED8D80 /* Hash.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Hash.h; path = ATInternetTracker/Sources/Hash.h; sourceTree = "<group>"; };
 		B0B0238835630A1E6A0C4C235EA88D33 /* Param.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Param.swift; path = ATInternetTracker/Sources/Param.swift; sourceTree = "<group>"; };
-		B62550BB890D02C6190D485B22A248D9 /* nuggad.manifest.json */ = {isa = PBXFileReference; includeInIndex = 1; name = nuggad.manifest.json; path = ATInternetTracker/Sources/nuggad.manifest.json; sourceTree = "<group>"; };
+		B62550BB890D02C6190D485B22A248D9 /* nuggad.manifest.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = nuggad.manifest.json; path = ATInternetTracker/Sources/nuggad.manifest.json; sourceTree = "<group>"; };
 		B9B88499FCC9BAC1350C0188FF49E16C /* Tracker.xcdatamodel */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcdatamodel; path = Tracker.xcdatamodel; sourceTree = "<group>"; };
 		BEFCF909306DD8DB2F90CA4EFD5E6570 /* BusinessObject.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BusinessObject.swift; path = ATInternetTracker/Sources/BusinessObject.swift; sourceTree = "<group>"; };
 		C18D44040B768E5077B0BFC883BDEF4E /* LifeCycle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LifeCycle.swift; path = ATInternetTracker/Sources/LifeCycle.swift; sourceTree = "<group>"; };
@@ -182,7 +182,7 @@
 		D5660E5F0EE6905971EE6032D338CD13 /* TrackerTests-Bridging-Header.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "TrackerTests-Bridging-Header.h"; path = "ATInternetTracker/Sources/TrackerTests-Bridging-Header.h"; sourceTree = "<group>"; };
 		D5F87A2BBC6394C05722B6D4393CB31C /* Dispatcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Dispatcher.swift; path = ATInternetTracker/Sources/Dispatcher.swift; sourceTree = "<group>"; };
 		D68FED181C2E1FF8058775D55C862857 /* Info-iOS.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = "Info-iOS.plist"; path = "ATInternetTracker/Sources/Info-iOS.plist"; sourceTree = "<group>"; };
-		D6E0B0DD3D52D286E6D73BC9FE8BD533 /* Tracker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Tracker.framework; path = "ATInternet-Apple-SDK.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6E0B0DD3D52D286E6D73BC9FE8BD533 /* Tracker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Tracker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD53808796C9215A6881F151441BB5EE /* IdentifiedVisitor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IdentifiedVisitor.swift; path = ATInternetTracker/Sources/IdentifiedVisitor.swift; sourceTree = "<group>"; };
 		E1339693D1D205315250400AD60D8C89 /* DefaultConfiguration~ipod.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = "DefaultConfiguration~ipod.plist"; path = "ATInternetTracker/Sources/DefaultConfiguration~ipod.plist"; sourceTree = "<group>"; };
 		E5FD29AC3FDA25743D670017A80BA244 /* Builder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Builder.swift; path = ATInternetTracker/Sources/Builder.swift; sourceTree = "<group>"; };
@@ -190,14 +190,14 @@
 		ECFBDD312678698A869268C23F367273 /* Storage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Storage.swift; path = ATInternetTracker/Sources/Storage.swift; sourceTree = "<group>"; };
 		EE37A09A551F5F9EB05E5E6A8871EBCD /* Gesture.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Gesture.swift; path = ATInternetTracker/Sources/Gesture.swift; sourceTree = "<group>"; };
 		EF437AE02C79531301EB8176059B1C72 /* Pods-NewYearResolutions-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NewYearResolutions-frameworks.sh"; sourceTree = "<group>"; };
-		EF4A8FAE0A23B4512A6A222A6712EBF0 /* tvtracking.manifest.json */ = {isa = PBXFileReference; includeInIndex = 1; name = tvtracking.manifest.json; path = ATInternetTracker/Sources/tvtracking.manifest.json; sourceTree = "<group>"; };
+		EF4A8FAE0A23B4512A6A222A6712EBF0 /* tvtracking.manifest.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = tvtracking.manifest.json; path = ATInternetTracker/Sources/tvtracking.manifest.json; sourceTree = "<group>"; };
 		F0B44F4A17EF83B9AA09AD43E80BBF07 /* Info-watchOS.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = "Info-watchOS.plist"; path = "ATInternetTracker/Sources/Info-watchOS.plist"; sourceTree = "<group>"; };
 		F0C7C6F96C55B3A32E0696E93A9F9061 /* Context.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Context.swift; path = ATInternetTracker/Sources/Context.swift; sourceTree = "<group>"; };
 		F1A0E9675B9BBB2A8267820F34FF0E29 /* Order.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Order.swift; path = ATInternetTracker/Sources/Order.swift; sourceTree = "<group>"; };
 		F20337370D7147E674014BB96B8BFA0E /* ATInternet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ATInternet.swift; path = ATInternetTracker/Sources/ATInternet.swift; sourceTree = "<group>"; };
 		F31AD7CED84FC8829CDCEC7E86D8D24C /* Info-iOS-SmartTracker.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = "Info-iOS-SmartTracker.plist"; path = "ATInternetTracker/Sources/Info-iOS-SmartTracker.plist"; sourceTree = "<group>"; };
 		F519E1D8BC8BC9EEC89837DD5E973162 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/CoreTelephony.framework; sourceTree = DEVELOPER_DIR; };
-		F8045DF5A020E415F48E076C99970354 /* core.manifest.json */ = {isa = PBXFileReference; includeInIndex = 1; name = core.manifest.json; path = ATInternetTracker/Sources/core.manifest.json; sourceTree = "<group>"; };
+		F8045DF5A020E415F48E076C99970354 /* core.manifest.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = core.manifest.json; path = ATInternetTracker/Sources/core.manifest.json; sourceTree = "<group>"; };
 		FAD9864CD5CA61BA23949065CA8170A5 /* Maths.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Maths.swift; path = ATInternetTracker/Sources/Maths.swift; sourceTree = "<group>"; };
 		FD2EB9BEC2940902E2476BD5DC49E793 /* Event.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Event.swift; path = ATInternetTracker/Sources/Event.swift; sourceTree = "<group>"; };
 		FF0229949CC9A2AECDC71E2521F11D0A /* Hit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Hit.swift; path = ATInternetTracker/Sources/Hit.swift; sourceTree = "<group>"; };
@@ -292,7 +292,6 @@
 				527C02751154D89E80086620BE9ADE17 /* Support Files */,
 				C2ECCCBBAEC576872C69B407CF8FA7EB /* Tracker */,
 			);
-			name = "ATInternet-Apple-SDK";
 			path = "ATInternet-Apple-SDK";
 			sourceTree = "<group>";
 		};
@@ -487,6 +486,11 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					BBF261E49074A141C8395DABB4D90264 = {
+						LastSwiftMigration = 0930;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -909,6 +913,7 @@
 			children = (
 				B9B88499FCC9BAC1350C0188FF49E16C /* Tracker.xcdatamodel */,
 			);
+			currentVersion = B9B88499FCC9BAC1350C0188FF49E16C /* Tracker.xcdatamodel */;
 			name = Tracker.xcdatamodeld;
 			path = ATInternetTracker/Sources/Tracker.xcdatamodeld;
 			sourceTree = "<group>";
