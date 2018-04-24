@@ -1,0 +1,16 @@
+PODS:
+  - ATInternet-Apple-SDK/Tracker (2.6.0)
+
+DEPENDENCIES:
+  - ATInternet-Apple-SDK/Tracker (= 2.6.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ATInternet-Apple-SDK
+
+SPEC CHECKSUMS:
+  ATInternet-Apple-SDK: 81f5efeb417d77c4077c034872f1b2fc254c1b86
+
+PODFILE CHECKSUM: 5ffe925bb97455e2addc930208ac862dd5c40ecf
+
+COCOAPODS: 1.5.0
