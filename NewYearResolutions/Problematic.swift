@@ -1,10 +1,10 @@
 import Foundation
-import Tracker
+import Tracker // comment out this line, and the syntax error below vanishes
 
 class Problematic {
 	
 	func problematic() {
-		Configuration.someMethod()
+		Configuration.someMethod() // appcode: "cannot access Configuration: it is internal in Tracker"
 	}
 	
 }
